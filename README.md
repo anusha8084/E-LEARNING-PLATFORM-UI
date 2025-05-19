@@ -66,3 +66,10 @@ This task not only fulfilled all functional deliverables (course list, progress 
 
 
 *OUTPUT* :
+![Image](https://github.com/user-attachments/assets/fa0e3afa-2a71-46e7-9bcc-aa1e84599a1a)
+
+![Image](https://github.com/user-attachments/assets/170a9400-8cd7-4f80-8028-d5ee1a8e4a20)
+
+![Image](https://github.com/user-attachments/assets/f38ce5ae-96ff-4f4c-8443-20e23600ab23)
+
+![Image](https://github.com/user-attachments/assets/f7d2e1e8-78d2-4707-8766-362ff13f3851)
